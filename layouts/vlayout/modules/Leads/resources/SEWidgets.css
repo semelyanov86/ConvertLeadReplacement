@@ -1,0 +1,38 @@
+
+.state-highlight{
+    height: 2em; line-height: 2em; border: 1px solid #FFD600;background-color:#F9FFB3; border-style: dashed;
+}
+.blocks-content{
+    background: white;
+    border: 1px solid #dddddd;
+}
+.modal-Fields .span7{
+    margin-bottom: 9px;
+}
+.ui-sortable-helper{
+    background: white;
+    -webkit-box-shadow: 0 0 3px -1px #dddddd;
+    -moz-box-shadow: 0 0 3px -1px #dddddd;
+    box-shadow: 0 0 3px -1px #dddddd;
+}
+.HelpInfoPopover .icon-info-sign{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.blocksSortable {
+    min-height: 30px;
+}
+.dummyRow {
+    margin: 10px 5px ;
+    border: 1px solid #f1f1f1;
+    min-height: 38px;
+    background: #f9f9f9;
+}
+.dummyRow .dragUiText{
+    font-size: 20px;
+    opacity: 0.3;
+    width: 100%;
+    text-align: center;
+    float: left;
+    padding-top: 1%;
+}
